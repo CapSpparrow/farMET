@@ -1,5 +1,6 @@
                                                           farMet Application
 
+Developers : Ashwini Patel, Dinesh Pranav
 Functionalities: 
 
 DashBoard - Admin,User
